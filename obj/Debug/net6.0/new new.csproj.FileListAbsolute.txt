@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\new new\bin\Debug\net6.0\new new.exe
+C:\Users\HP\Desktop\new new\bin\Debug\net6.0\new new.deps.json
+C:\Users\HP\Desktop\new new\bin\Debug\net6.0\new new.runtimeconfig.json
+C:\Users\HP\Desktop\new new\bin\Debug\net6.0\new new.dll
+C:\Users\HP\Desktop\new new\bin\Debug\net6.0\new new.pdb
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.AssemblyInfo.cs
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.dll
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\refint\new new.dll
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.pdb
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\new new.genruntimeconfig.cache
+C:\Users\HP\Desktop\new new\obj\Debug\net6.0\ref\new new.dll
